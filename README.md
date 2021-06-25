@@ -1,2 +1,9 @@
 # hello-world
-first time to use Github
+
+Hello everybody! 
+
+Ray is here! 
+
+In the process of learning how to work on Github. 
+
+Oh-ho~
